@@ -1,0 +1,1 @@
+<h1>Theme 2 Admin</h1>

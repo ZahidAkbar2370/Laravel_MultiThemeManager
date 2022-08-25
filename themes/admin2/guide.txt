@@ -1,0 +1,34 @@
+first create project
+
+second install package (composer require qirolab/laravel-themer
+)
+
+run command
+php artisan vendor:publish --provider="Qirolab\Theme\ThemeServiceProvider" --tag="config"
+
+
+create your first theme
+php artisan make:theme
+
+fill steps
+
+theme created
+
+if you want to create second theme then again run command 
+php artisan make:theme
+
+fill steps 
+theme created
+
+
+
+
+
+
+
+
+
+
+
+concept : in this on route but can run different themes mean blade files
+https://github.com/qirolab/laravel-themer
